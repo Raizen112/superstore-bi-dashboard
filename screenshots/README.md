@@ -1,13 +1,13 @@
 ## 📸 Screenshots
 
-### Sales Overview
-![Sales Overview](screenshots/sales_overview.png)
+## Sales Overview
+![Sales Overview](sales_overview.png)
 
-### Regional Analysis
-![Regional Analysis](screenshots/regional_analysis.png)
+## Regional Analysis
+![Regional Analysis](regional_analysis.png)
 
-### Product Analysis
-![Product Analysis](screenshots/product_analysis.png)
+## Product Analysis
+![Product Analysis](product_analysis.png)
 
-### Customer Segments
-![Customer Segments](screenshots/customer_segments.png)
+## Customer Segments
+![Customer Segments](customer_segments.png)
